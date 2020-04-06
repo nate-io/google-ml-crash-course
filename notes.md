@@ -95,11 +95,7 @@ Most machine learning problems require a lot of hyperparameter tuning. Unfortuna
 
 Remember: the ideal combination of hyperparameters is data dependent, so you must always experiment and verify.
 
-
-
-
-
-
+ 
 
 
 
